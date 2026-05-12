@@ -1,4 +1,4 @@
-# Express Backend
+# Express Backend Boilerplate
 
 ## Database Schema Design
 
